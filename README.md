@@ -1,7 +1,6 @@
 <p qalign="center">
   <a href="https://t.me/x313xTeamBackup"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=313+Team;Cyber+Islamic+Resistance+in+Iraq;CEO+-+Hacker+Al-Imamah313"></a>
 </p>
-<br>
 <p align="center"> 
 	<img src="https://i.ibb.co/S4LZ51q2/2382-F40-C-B6-BF-4-F2-E-B2-CB-AC8446-BDEBA3.jpg" alt="313Team" height=200px, width=400px/> 
 	<!---
