@@ -17,7 +17,7 @@
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About this repository
 
-<picture> <img align="right" src="https://raw.githubusercontent.com/313Team/313Team/refs/heads/main/IMG_8191.png" width = 250px></picture>
+<picture> <img align="right" src="https://raw.githubusercontent.com/313Team/313Team/refs/heads/main/IMG_8191.png" width = 200px></picture>
 
 <br><br>
 
