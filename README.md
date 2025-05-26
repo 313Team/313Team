@@ -23,7 +23,7 @@
 
 - This repository is part of a software arsenal for the Islamic Resistance Cyber.
 - This entire repository is affiliated with the (liwa awli aleazm), one of the Islamic Cyber Resistance brigades responsible for developing and supplying the axis with specialized software and tools.
-- :technologist: I love using Software as a solution for every `Problem`.
+- Cyber Islamic Resistance in Iraq - 313 Team (CEO: Hacker Al-Imamah313) is responsible for managing liwa awli aleazm, as well as managing this warehouse and building and developing a large part of its tools.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
