@@ -22,7 +22,7 @@
 <br><br>
 
 - This repository is part of a software arsenal for the Islamic Resistance Cyber.
-- :trophy: 2x `ACPC` Finalist.
+- This entire repository is affiliated with the (liwa awli aleazm), one of the Islamic Cyber Resistance brigades responsible for developing and supplying the axis with specialized software and tools.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
