@@ -25,13 +25,15 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About 313 Team
 
-<picture> <img align="right" src="https://raw.githubusercontent.com/313Team/313Team/refs/heads/main/IMG_8191.png" width = 200px></picture>
+<picture> <img align="right" src="https://raw.githubusercontent.com/313Team/313Team/refs/heads/main/IMG_8190.PNG" width = 200px></picture>
 
 <br><br>
 
-- This repository is part of a software arsenal for the Cyber ​​Islamic Resistance Axis.
-- This entire repository is affiliated with the (liwa awli aleazm), one of the Cyber ​​Islamic Resistance Axis brigades responsible for developing and supplying the axis with specialized software and tools.
-- Cyber Islamic Resistance in Iraq - 313 Team (CEO: Hacker Al-Imamah313) is responsible for managing liwa awli aleazm, as well as managing this warehouse and building and developing a large part of its tools.
+- The Islamic Cyber ​​Resistance in Iraq
+- The arm responsible for managing the cyber training wing (Liwa Badr) and the software development wing (Liwa Awli Aleazm) of the Islamic Cyber ​​Resistance Axis
+- A team composed of professional Iraqi hackers and programmers
+- The Islamic Cyber ​​Resistance in Iraq was founded - 313 Team (June 10, 2023)
+- Hacker Al-Imamah313 - CEO
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
