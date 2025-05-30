@@ -1,5 +1,5 @@
 <center>
-<p qalign="center">
+<p>
   <a href="https://t.me/x313xTeamBackup"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=313+Team;Cyber+Islamic+Resistance+in+Iraq;liwa+awli+aleazm;Hacker+Al-Imamah313+-+CEO;"></a>
 </p>
 </center>
