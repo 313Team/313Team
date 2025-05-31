@@ -15,7 +15,7 @@
 
 <picture> <img align="right" src="https://raw.githubusercontent.com/313Team/313Team/refs/heads/main/IMG_8191.png" width = 200px></picture>
 
-<br><br>
+<br>
 
 - This repository is part of a software arsenal for the Cyber ​​Islamic Resistance Axis.
 - This entire repository is affiliated with the (liwa awli aleazm), one of the Cyber ​​Islamic Resistance Axis brigades responsible for developing and supplying the axis with specialized software and tools.
