@@ -37,7 +37,12 @@
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
-
+- Cyber Islamic ​​Resistance in Iraq (CIRI)
+- The arm responsible for managing the cyber training wing (Liwa Badr) and the software development wing (Liwa Awli Aleazm) of the Islamic Cyber ​​Resistance Axis
+- A team composed of professional Iraqi hackers and programmers
+- The Islamic Cyber ​​Resistance in Iraq was founded - 313 Team (June 10, 2023)
+- Hacker Al-Imamah313 - CEO
+<br>
 <p align="center">
   <a href="https://codeforces.com/profile/7oSkaaa"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
 	<a href="https://leetcode.com/7oSkaa/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
