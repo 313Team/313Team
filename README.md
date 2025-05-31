@@ -36,7 +36,7 @@
 - Hacker Al-Imamah313 - CEO
 <br>
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> About Cyber ​​Islamic Resistance Axis
 - Cyber Islamic ​​Resistance in Iraq (CIRI)
 - The arm responsible for managing the cyber training wing (Liwa Badr) and the software development wing (Liwa Awli Aleazm) of the Islamic Cyber ​​Resistance Axis
 - A team composed of professional Iraqi hackers and programmers
