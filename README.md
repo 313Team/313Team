@@ -29,7 +29,7 @@
 - Islamic Cyber ​​Resistance in Iraq (ICRI)
 - The arm responsible for managing the cyber training wing (Liwa Badr) and the software development wing (Liwa Awli Aleazm) of the Islamic Cyber ​​Resistance Axis
 - A team composed of professional Iraqi hackers and programmers
-- The Islamic Cyber ​​Resistance in Iraq was founded - 313 Team (June 10, 2023)
+- The Islamic Cyber ​​Resistance in Iraq was founded - 313 Team (June 13, 2023)
 - Hacker Al-Imamah313 - CEO
 <br>
 
