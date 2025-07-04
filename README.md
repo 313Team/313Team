@@ -45,7 +45,7 @@
 <br>
 <p align="center">
 	<img src="https://raw.githubusercontent.com/313Team/313Team/refs/heads/main/IMG_8191.png" alt="Code Forces" width = 100px/>
-	<img src="https://raw.githubusercontent.com/313Team/313Team/refs/heads/main/IMG_8233.PNG" alt="LeetCode" width = 100px/>
+	<img src="https://raw.githubusercontent.com/313Team/313Team/refs/heads/main/IMG_8233.PNG" alt="LeetCode" width = 120px/>
 	<a href="https://atcoder.jp/users/ahmed_7oSkaa"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width = 60px/></a>
 	<a href="https://www.codechef.com/users/ahmed_7oskaa"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
 	<a href="https://icpc.global/ICPCID/IW0X0CTD0ZV9"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global" width = 60px /></a>     
