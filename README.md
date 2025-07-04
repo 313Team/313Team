@@ -46,9 +46,9 @@
 <p align="center">
 	<img src="https://raw.githubusercontent.com/313Team/313Team/refs/heads/main/IMG_8191.png" alt="Code Forces" width = 100px/>
 	<img src="https://raw.githubusercontent.com/313Team/313Team/refs/heads/main/IMG_8233.PNG" alt="LeetCode" width = 105px/>
-	<a href="https://atcoder.jp/users/ahmed_7oSkaa"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width = 60px/></a>
-	<a href="https://www.codechef.com/users/ahmed_7oskaa"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
-	<a href="https://icpc.global/ICPCID/IW0X0CTD0ZV9"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global" width = 60px /></a>     
-	<a href="https://www.codingame.com/profile/e5e56c7585fda3b457056b85180a4d636850344" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width="100" height="50">
+	<img src="https://raw.githubusercontent.com/313Team/313Team/refs/heads/main/IMG_8697.PNG" alt="AtCoder" width = 60px/>
+	<img src="https://raw.githubusercontent.com/313Team/313Team/refs/heads/main/IMG_8696.PNG" alt="Code Chef"/>
+	<img src="https://raw.githubusercontent.com/313Team/313Team/refs/heads/main/IMG_8698.PNG" alt="ICPC Global" width = 60px />
+	<img src="https://raw.githubusercontent.com/313Team/313Team/refs/heads/main/IMG_8695.PNG" width="100" height="50">
 </p>
 
