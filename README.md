@@ -44,11 +44,11 @@
 - Hacker Al-Imamah313 - CEO
 <br>
 <p align="center">
-	<img src="https://raw.githubusercontent.com/313Team/313Team/refs/heads/main/IMG_8191.png" alt="Code Forces" width = 100px/>
+	<img src="https://raw.githubusercontent.com/313Team/313Team/refs/heads/main/IMG_8191.png" width = 100px/>
 	<img src="https://raw.githubusercontent.com/313Team/313Team/refs/heads/main/IMG_8233.PNG" width = 100px/>
-	<img src="https://raw.githubusercontent.com/313Team/313Team/refs/heads/main/IMG_8697.PNG" alt="AtCoder" width = 100px/>
-	<img src="https://raw.githubusercontent.com/313Team/313Team/refs/heads/main/IMG_8696.PNG" alt="Code Chef" width = 100px/>
-	<img src="https://raw.githubusercontent.com/313Team/313Team/refs/heads/main/IMG_8698.PNG" alt="ICPC Global" width = 100px/>
+	<img src="https://raw.githubusercontent.com/313Team/313Team/refs/heads/main/IMG_8697.PNG" width = 100px/>
+	<img src="https://raw.githubusercontent.com/313Team/313Team/refs/heads/main/IMG_8696.PNG" width = 100px/>
+	<img src="https://raw.githubusercontent.com/313Team/313Team/refs/heads/main/IMG_8698.PNG" width = 100px/>
 	<img src="https://raw.githubusercontent.com/313Team/313Team/refs/heads/main/IMG_8695.PNG" width = 100px>
 </p>
 
