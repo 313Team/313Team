@@ -37,7 +37,7 @@
 
 <picture> <img align="right" src="https://raw.githubusercontent.com/313Team/313Team/refs/heads/main/Cyber​IslamicResistance.PNG" width = 200px></picture>
 
-- Cyber Islamic ​​Resistance in Iraq (CIRI)
+- The axis includes 6 brigades.
 - The arm responsible for managing the cyber training wing (Liwa Badr) and the software development wing (Liwa Awli Aleazm) of the Islamic Cyber ​​Resistance Axis
 - A team composed of professional Iraqi hackers and programmers
 - The Islamic Cyber ​​Resistance in Iraq was founded - 313 Team (June 10, 2023)
