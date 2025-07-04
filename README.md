@@ -26,8 +26,6 @@
 
 <picture> <img align="right" src="https://raw.githubusercontent.com/313Team/313Team/refs/heads/main/IMG_8190.PNG" width = 200px></picture>
 
-<br><br>
-
 - Islamic Cyber ​​Resistance in Iraq (ICRI)
 - The arm responsible for managing the cyber training wing (Liwa Badr) and the software development wing (Liwa Awli Aleazm) of the Islamic Cyber ​​Resistance Axis
 - A team composed of professional Iraqi hackers and programmers
@@ -39,7 +37,6 @@
 
 <picture> <img align="right" src="https://raw.githubusercontent.com/313Team/313Team/refs/heads/main/IMG_8191.png" width = 200px></picture>
 
-<br><br>
 - Cyber Islamic ​​Resistance in Iraq (CIRI)
 - The arm responsible for managing the cyber training wing (Liwa Badr) and the software development wing (Liwa Awli Aleazm) of the Islamic Cyber ​​Resistance Axis
 - A team composed of professional Iraqi hackers and programmers
