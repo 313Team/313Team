@@ -35,9 +35,9 @@
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=40> </picture> About Cyber ​​Islamic Resistance Axis
 
-<picture> <img align="right" src="https://raw.githubusercontent.com/313Team/313Team/refs/heads/main/Cyber​IslamicResistance.PNG" width = 200px></picture><br>
+<picture> <img align="right" src="https://raw.githubusercontent.com/313Team/313Team/refs/heads/main/Cyber​IslamicResistance.PNG" width = 200px></picture>
 
-- The axis includes 6 brigades.
+- The axis includes 6 brigades.<br>
 <!-- - The arm responsible for managing the cyber training wing (Liwa Badr) and the software development wing (Liwa Awli Aleazm) of the Islamic Cyber ​​Resistance Axis
 - A team composed of professional Iraqi hackers and programmers
 - The Islamic Cyber ​​Resistance in Iraq was founded - 313 Team (June 10, 2023)
