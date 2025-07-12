@@ -35,7 +35,7 @@
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width=40> </picture> About Cyber ​​Islamic Resistance Axis
 
-<picture> <img align="right" src="https://raw.githubusercontent.com/313Team/313Team/refs/heads/main/Cyber​IslamicResistance.PNG" width = 200px></picture>
+<picture> <img align="right" src="https://raw.githubusercontent.com/313Team/313Team/refs/heads/main/Cyber​IslamicResistance.PNG" width = 200px></picture><br>
 
 - The axis includes 6 brigades.
 <!-- - The arm responsible for managing the cyber training wing (Liwa Badr) and the software development wing (Liwa Awli Aleazm) of the Islamic Cyber ​​Resistance Axis
